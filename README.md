@@ -38,7 +38,7 @@ The goal of this project was to take a raw, messy dataset and transform it into 
 ## ✅ Status
 
 🟢 **Completed** — Project has been successfully finalised and uploaded.
-📌 This project is inspired by and learned from the Alex The Analyst YouTube channel.
+ This project is inspired by and learned from the Alex The Analyst YouTube channel.
 
 ## 📬 Let's Connect!
 
