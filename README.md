@@ -31,7 +31,7 @@ The goal of this project was to take a raw, messy dataset and transform it into 
 
 ## 📂 Project Structure
 
-* `cleaning_script.sql` – Contains all SQL queries used in the data cleaning process
+* `Data Cleaning.sql` – Contains all SQL queries used in the data cleaning process
 * `README.md` – This file outlines the project summary
 
 ## ✅ Status
