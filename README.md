@@ -6,6 +6,7 @@
 Welcome to my **SQL Data Cleaning Project**!
 This project marks the completion of a hands-on data cleaning task using **SQL language in MySQL Workbench**. I'm excited to share my work with the GitHub community.
 
+
 ## 📌 Objective
 
 The goal of this project was to take a raw, messy dataset and transform it into a clean, analysis-ready format using SQL. Data cleaning is a crucial step in any data analytics or business intelligence workflow, and this project showcases essential techniques and best practices.
@@ -37,6 +38,7 @@ The goal of this project was to take a raw, messy dataset and transform it into 
 ## ✅ Status
 
 🟢 **Completed** — Project has been successfully finalised and uploaded.
+📌 This project is inspired by and learned from the Alex The Analyst YouTube channel.
 
 ## 📬 Let's Connect!
 
